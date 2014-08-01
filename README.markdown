@@ -4,7 +4,9 @@ jasmine-underscore provides two extensions for [Jasmine](http://pivotal.github.c
   
 - matchers implicitly defined by object functions in [Underscore](http://documentcloud.github.com/underscore/)
 - a means to write examples into specs
-  
+
+It supports both Jasmine 1 and 2.
+
 ## Installation
 
 Simply grab the _jasmine-underscore.js_ from the [latest stable release](https://github.com/downloads/adscott/jasmine-underscore/jasmine-underscore-v1.1.zip) and include it in your Jasmine's test runner file (or add it to _jasmine.yml_ file if you're using Ruby with [jasmine-gem](http://github.com/pivotal/jasmine-gem)). You'll also need [Underscore](http://documentcloud.github.com/underscore/).
