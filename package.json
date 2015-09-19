@@ -1,0 +1,21 @@
+{
+	"name": "jasmine-underscore",
+	"version": "0.0.0",
+	"description": "Underscore matchers for Jasmine framework",
+	"license": "MIT",
+	"author": "Adam Scott <me@adams.co.tt>",
+	"homepage": "https://github.com/adscott/jasmine-underscore",
+	"bugs": {
+		"url": "https://github.com/adscott/jasmine-underscore/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/adscott/jasmine-underscore.git"
+	},
+	"keywords": [
+		"jasmine",
+		"underscore",
+		"matchers"
+	],
+	"main": "lib/jasmine-underscore.js"
+}
